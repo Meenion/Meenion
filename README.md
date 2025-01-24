@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meenion!
 
-- 🎓 I’m currently a 4th-year student at the University of Birmingham, passionate about advancing the fields of Artificial Intelligence (AI) and Machine Learning (ML), with a particular focus on Computer Vision and its applications.
+- 🎓 I’m currently a 4th-year student at the University of Birmingham completing her Masters of Engineering in Computer Science and Software Engineering, passionate about advancing the fields of Artificial Intelligence (AI) and Machine Learning (ML), with a particular focus on Computer Vision and its applications.
 - 💡 My interests include building CV-based models, exploring linguistic OCR systems, and working on cutting-edge technologies in deep learning.
 - 🔒 Additionally, I’m open to opportunities in cybersecurity and innovative roles that merge AI with secure software development.
 - 🤝 I’m eager to collaborate on OCR model projects, AI-driven innovations, and solutions leveraging CV expertise.
